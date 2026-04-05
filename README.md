@@ -30,7 +30,7 @@ This demo simulates how AI tools can assist developers in generating, reviewing,
 
 ## Qodo Integration
 
-![Qodo Integration](images/qodo-integration.png)
+![Qodo Integration](images/Connection.png)
 
 ## Author
 
