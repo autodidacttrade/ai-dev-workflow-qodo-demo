@@ -28,6 +28,10 @@ POST /ai-test
 
 This demo simulates how AI tools can assist developers in generating, reviewing, and testing code within a development workflow.
 
+## Qodo Integration
+
+![Qodo Integration](images/qodo-integration.png)
+
 ## Author
 
 Jim Soria Rivera
